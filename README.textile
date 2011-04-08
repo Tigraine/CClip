@@ -1,0 +1,12 @@
+h1. Clip
+
+Clip takes all input and puts it in the clipboard. 
+So you can pipe stuff from the commandline to clip and then paste it to whatever window you want.
+
+Really handy if you need to copy file contents around:
+
+@cat ~/.ssh/id_rsa.pub | clip@
+
+h2. Installation 
+
+Put clip.exe in your path somewhere
