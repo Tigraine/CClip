@@ -1,4 +1,4 @@
-﻿namespace Clip
+﻿namespace CClip
 {
     using System;
     using System.Windows.Forms;

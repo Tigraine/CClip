@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clip", "Clip\Clip.csproj", "{BC02354D-A9D0-4CC3-B8E9-FB06D7AE1058}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CClip", "CClip\CClip.csproj", "{BC02354D-A9D0-4CC3-B8E9-FB06D7AE1058}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

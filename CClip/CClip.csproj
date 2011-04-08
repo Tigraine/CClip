@@ -8,8 +8,8 @@
     <ProjectGuid>{BC02354D-A9D0-4CC3-B8E9-FB06D7AE1058}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Clip</RootNamespace>
-    <AssemblyName>Clip</AssemblyName>
+    <RootNamespace>CClip</RootNamespace>
+    <AssemblyName>CClip</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
