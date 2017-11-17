@@ -9,4 +9,4 @@ Really handy if you need to copy file contents around:
 
 h2. Installation 
 
-Put cclip.exe in your path somewhere
+ Put cclip.exe in your path somewhere
