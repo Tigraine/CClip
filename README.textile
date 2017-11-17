@@ -7,6 +7,6 @@ Really handy if you need to copy file contents around:
 
 @cat ~/.ssh/id_rsa.pub | cclip@
 
-h2. Installation 
+ h2. Installation 
 
 Put cclip.exe in your path somewhere
